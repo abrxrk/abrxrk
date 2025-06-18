@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Abrar Ateeq</h1>
 <h3 align="center">A passionate technologist focused on building innovative softwares</h3>
 
-- 🌱 I’m currently enchancing **my full-stack development skills through MERN projects.**
+- 🌱 I’m currently enchancing **my full-stack development skills through projects.**
 
 - 📫 How to reach me **Akabrar5@gmail.com**
 
