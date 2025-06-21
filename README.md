@@ -7,6 +7,9 @@
 
 - 💻I'm also passionate about solving **DSA problems to sharpen problem-solving skills.**
 
+- ![Visitor Count](https://visitor-badge.glitch.me/badge?page_id=abrxrk)
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/abrar ateeq" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abrar ateeq" height="30" width="40" /></a>
