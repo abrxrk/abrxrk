@@ -7,7 +7,7 @@
 
 - 💻I'm also passionate about solving **DSA problems to sharpen problem-solving skills.**
 
-- ![Visitor Count](https://visitor-badge.glitch.me/badge?page_id=abrxrk)
+
 
 
 <h3 align="left">Connect with me:</h3>
