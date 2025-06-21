@@ -7,7 +7,7 @@
 
 - 💻I'm also passionate about solving **DSA problems to sharpen problem-solving skills.**
 
-
+![](https://komarev.com/ghpvc/?username=abrxrk)
 
 
 <h3 align="left">Connect with me:</h3>
