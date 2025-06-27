@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently enchancing **my full-stack development skills through projects.**
 
-- 📫 How to reach me **Akabrar5@gmail.com**
+- 📫 How to reach me **abrarkhawarwork@gmail.com**
 
 - 💻I'm also passionate about solving **DSA problems to sharpen problem-solving skills.**
 
